@@ -3,7 +3,7 @@
 }
 .parallax {
     /* The image used */
-    background-image: url("https://github.com/OSUlabrat/osulabrat.github.io/blob/master/XichiganOSU2016.JPG");
+    background-image: url("XichiganOSU2016.JPG");
     
     /* Set a specific height */
     min-height: 450px;
